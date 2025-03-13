@@ -1,1 +1,1 @@
-# FactGuard a content verification system using Large Language Models (LLMs) to enhance the reliability of online video content. It transcribes speech from videos and compares it with web sources to detect inaccuracies.
+FactGuard - a content verification system using Large Language Models (LLMs) to enhance the reliability of online video content. It transcribes speech from videos and compares it with web sources to detect inaccuracies.
